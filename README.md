@@ -24,3 +24,21 @@ I am an Informatics student at Universitas Ciputra specializing in Full-Stack De
 
 ### 🛠️ Tools & Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics:
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=WesleyGoey&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=WesleyGoey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=WesleyGoey&theme=dark&hide_border=false" width="97%" />
+</p>
+
+### 📈 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WesleyGoey&theme=github-dark&area=true" width="97%" />
+</p>
