@@ -1,3 +1,13 @@
+# 💫 About Me:
+I am an Informatics student at Universitas Ciputra specializing in Full-Stack Development with a strong focus on Mobile and Web Engineering. I **enjoy** working in collaborative team environments and am deeply **passionate** about hands-on projects where I can apply systems thinking, robust database architecture, and practical problem-solving to build impactful digital experiences. Driven by the challenge of translating complex logic into clean, scalable solutions, I am constantly exploring new frameworks to write software that is both highly functional and maintainable.
+
+---
+
+## 🌐 Connect with Me:
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wesley.goey@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wesley_goey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wesleygoeinawan)
+
+---
+
 ## 💻 Tech Stack:
 
 ### 📱 Mobile Development
@@ -14,3 +24,21 @@
 
 ### 🛠️ Tools & Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics:
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=WesleyGoey&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=WesleyGoey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=WesleyGoey&theme=dark&hide_border=false" width="97%" />
+</p>
+
+### 📈 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WesleyGoey&theme=github-dark&area=true" width="97%" />
+</p>
